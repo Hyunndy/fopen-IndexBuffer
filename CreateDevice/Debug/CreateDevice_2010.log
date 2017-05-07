@@ -1,0 +1,4 @@
+﻿  CreateDevice.cpp
+c:\users\hyunji\desktop\vs_complie\createdevice\createdevice.cpp(279): warning C4100: 'hInst': 참조되지 않은 정식 매개 변수입니다.
+  CreateDevice_2010.vcxproj -> C:\Users\Hyunji\Desktop\VS_Complie\CreateDevice\Debug\CreateDevice.exe
+  CreateDevice_2010.vcxproj -> C:\Users\Hyunji\Desktop\VS_Complie\CreateDevice\Debug\CreateDevice.pdb (Full PDB)
